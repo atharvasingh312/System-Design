@@ -1,4 +1,4 @@
-# Comprehensive Notes on Database Sharding & Horizontal Partitioning
+# Database Sharding & Horizontal Partitioning
 
 > Sources:  
 > [What is Database Sharding? | AWS](https://aws.amazon.com/what-is/database-sharding/)  
