@@ -47,7 +47,7 @@ After sharding:
 
 ---
 
-## Benefits of Sharding (AWS)
+## Benefits of Sharding 
 
 - **Improved Response Time:** Each shard has fewer rows, so queries are faster.
 - **Fault Tolerance:** Failure in one shard does not mean total database outage.
@@ -92,11 +92,5 @@ Table `Users` split based on UserID:
   While both split data by rows, *sharding* goes further by *distributing* partitions across different servers or databases.
 
 - **Partitioning stays inside one logical DB**, and is meant for query or maintenance optimization—*sharding is a true scaling/fault isolation technique*.
-
----
-
-**References:**  
-- AWS: What is Database Sharding? (2025)  
-- DataCamp: Sharding vs Partitioning (2025)
 
 ---
