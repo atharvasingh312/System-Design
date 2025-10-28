@@ -118,14 +118,6 @@
 ## 7. Developer Discussions & Further Reading
 
 - [Why is 2-phase commit not suitable for a microservices architecture? (Stack Overflow)](https://stackoverflow.com/questions/55249656/why-is-2-phase-commit-not-suitable-for-a-microservices-architecture)
-- Difference Between SAGA Pattern and 2-Phase Commit in Microservices
-- Baeldung: 2PC vs Saga Pattern
-- Wikipedia: Two Generals’ Problem
-- Lamport et al.: Byzantine generals
-- Wikipedia: CAP theorem
-- GeeksforGeeks: Disadvantages of Distributed Systems
-- Bits and Pieces: Eventual Consistency
-- Martin Fowler: 2PC
 
 ---
 
