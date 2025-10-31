@@ -285,7 +285,7 @@ This violates linearizability because B should see A's write.
 ## 4. Quorum-Based Consistency
 
 ### **Definition**
-Quorum is the minimum number of nodes that must agree on an operation for it to be considered valid in a distributed system[126][127][131][134].
+Quorum is the minimum number of nodes that must agree on an operation for it to be considered valid in a distributed system.
 
 ### **Quorum Types**
 
